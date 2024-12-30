@@ -1,3 +1,7 @@
+# Ignore executables
+main
+
+# Compliler cache
 .cache/
 
 # Prerequisites
